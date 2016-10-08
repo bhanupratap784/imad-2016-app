@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/article-one', function(req,res){
-    res.send('article one will be displayed here only')
+    res.send('article one will be displayed here only');
 });
 
 
