@@ -9,19 +9,18 @@ var articleone= {
     title: 'ARticle-one',
     heading: 'Aticle one',
     date: 'october 12,2016',
-    content : 'I AM BHANU PRAtAP SINGH'
+    content : `I AM BHANU PRAtAP SINGH`
 };
 function createtemplate(data) {
     var title= data.title;
     var date= data.date;
     var heading=data.heading;
     var content=data.content;
-var htmltemplate={
-    <html>
+var htmltemplate=`
+<html>
     <head>
         <title>
             ${title}
-            
         </title>
 <link href="ui/style.css" rel="stylesheet" />
     </head>
@@ -39,16 +38,14 @@ var htmltemplate={
         ${date}
     </div>
     <div>
-      ${content}
+        ${content}
     </div>
     </div>
     
-</body>
-</html>
+</body></html>
+`;
+return createtemplate;
 }
-return htmltemplate;
-
-};
 
 
 app.get('/', function (req, res) {
