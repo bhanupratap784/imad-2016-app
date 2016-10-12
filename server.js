@@ -20,7 +20,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/article-one', function(req,res){
-    res.send(createtemplate(articleone));
+    res.send('article one will be shown here');
 });
 
 
