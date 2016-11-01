@@ -23,7 +23,7 @@ body {
   width: 80%;
    }
    .button {
-    background-color: #4CAF50; /* Green */
+    background-color: transparent;
     border: none;
     color: white;
     padding: 15px 32px;
