@@ -6,6 +6,7 @@ body {
  }
  .line{
      display:inline;
+      font-family: 'Fruktur', cursive;
  }
    .enter{
     font-family: 'Fruktur', cursive;
