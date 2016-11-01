@@ -12,6 +12,9 @@ body {
      display:inline;
       font-family: 'Fruktur', cursive;
  }
+ .line1{
+      font-family: 'Fruktur', cursive;
+ }
    .enter{
     font-family: 'Fruktur', cursive;
    padding-top:100px;
