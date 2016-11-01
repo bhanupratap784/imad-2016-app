@@ -2,10 +2,12 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 0px;
-     background:
-     url("http://wallpapercave.com/wp/tW8bv5V.png") no-repeat center center; 
+    
  }
-   
+   .enter{
+        background:
+     url("http://wallpapercave.com/wp/tW8bv5V.png") no-repeat center center; 
+   }
 
 
 
