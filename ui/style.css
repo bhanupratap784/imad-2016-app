@@ -5,6 +5,10 @@ body {
    
 }
  
+ .mainimg{
+     width:50%;
+     height:auto;
+ }
 
 .center {
     text-align: center;
