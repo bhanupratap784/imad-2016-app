@@ -9,6 +9,11 @@ body {
         background:
      url("http://wallpapercave.com/wp/tW8bv5V.png") no-repeat center right; 
      background-size:cover;
+      background-attachment:fixed;
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 100%;
    }
 
 
