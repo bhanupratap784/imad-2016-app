@@ -4,7 +4,7 @@ body {
     margin-top: 75px;
     background:
     url("http://3.bp.blogspot.com/-DPUYa3ZJ_1Q/VPB7DqQjHXI/AAAAAAAAN6M/mfmUhIvoN6Y/s1600/Kick%2BButtowski%2BHD%2BWallpapers5.jpg") no-repeat top center;
-    background-size:cover;
+    background-size:contain;
 }
 
 
