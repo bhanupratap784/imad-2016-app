@@ -2,24 +2,18 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 0px;
-   
-}
- 
- .mainimg{
-     width:auto;
-     height:auto;
+     background:
+     url("http://wallpapercave.com/wp/tW8bv5V.png"); 
  }
+   
+
+
+
 
 .center {
     text-align: center;
 }
-.enter{
-    font-family: 'Gloria Hallelujah', cursive;
-   text-align:center;
-   font-size:300px;
-    
-    
-}
+
 
 .text-big {
     font-size: 300%;
