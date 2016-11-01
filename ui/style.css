@@ -17,6 +17,10 @@ body {
  .line1{
       font-family: 'Indie Flower', cursive;
  }
+ .enter.h1{
+     padding-left:20px;
+     
+ }
    .enter{
      font-family: 'Indie Flower', cursive;
     font-size:250%;
