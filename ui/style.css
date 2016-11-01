@@ -11,7 +11,7 @@ body {
      background-size:cover;
       background-attachment:fixed;
   height: 900px;
-  position: relative;
+  position: fixed;
   top: -55px;
   width: 100%;
    }
