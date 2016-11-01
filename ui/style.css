@@ -5,7 +5,8 @@ body {
     
  }
    .enter{
-    
+    font-family: 'Fruktur', cursive;
+    font-size:300%;
         background:
      url("http://wallpapercave.com/wp/tW8bv5V.png") no-repeat right center; 
      background-size:cover;
