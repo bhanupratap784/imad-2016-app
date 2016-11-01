@@ -13,6 +13,9 @@ body {
 .center {
     text-align: center;
 }
+.enter{
+    font-family: 'Gloria Hallelujah', cursive;
+}
 
 .text-big {
     font-size: 300%;
