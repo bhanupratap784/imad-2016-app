@@ -11,7 +11,7 @@ body {
      
  }
  .line{
-     display:inline;
+     display:block;
       font-family: 'Indie Flower', cursive;
  }
  .line1{
