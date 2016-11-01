@@ -4,6 +4,9 @@ body {
     margin-top: 0;
     
  }
+ .line{
+     display:inline;
+ }
    .enter{
     font-family: 'Fruktur', cursive;
    padding-top:100px;
