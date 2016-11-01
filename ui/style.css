@@ -4,6 +4,10 @@ body {
     margin-top: 0;
     
  }
+ p{
+       font-family: 'Fruktur', cursive;
+     
+ }
  .line{
      display:inline;
       font-family: 'Fruktur', cursive;
