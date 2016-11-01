@@ -23,8 +23,8 @@ app.get('/ui/info.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'info.html'));
 });
 
-app.get('/ui/aboutme.html', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'aboutme.html'));
+app.get('/ui/contact.html', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'contact.html'));
 });
 
 
