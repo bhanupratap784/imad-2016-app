@@ -23,7 +23,7 @@ app.get('/ui/info.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'info.html'));
 });
 
-app.get('/ui/contact.html', function (req, res) {
+app.get('/ui/resume.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'resume.html'));
 });
 
