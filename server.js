@@ -24,7 +24,7 @@ app.get('/ui/info.html', function (req, res) {
 });
 
 app.get('/ui/contact.html', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'contact.html'));
+  res.sendFile(path.join(__dirname, 'ui', 'resume.html'));
 });
 
 
