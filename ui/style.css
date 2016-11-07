@@ -36,6 +36,9 @@ body {
        border:solid;
        border-color:black;
    }
+   .table,td {
+  border: 1px solid black;
+}
    .button {
        padding-left:100px;
     background-color: transparent;
