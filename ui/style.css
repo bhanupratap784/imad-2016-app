@@ -14,7 +14,10 @@ body {
 th,td{
     font-family: 'Indie Flower', cursive;
     font-size:20px;
-    
+}
+h1{
+     font-family: 'Indie Flower', cursive;
+     font-size:40px;
 }
      
  
@@ -36,11 +39,7 @@ th,td{
   width: 80%;
    }
    
-   .table{
-       font-family: 'Indie Flower', cursive;
-       text-align:center;
-       border:1px solid black;
-        }
+
    
    .button {
        padding-left:100px;
