@@ -32,13 +32,11 @@ body {
    }
    
    .table{
-       text-align:left;
-       border:solid;
-       border-color:black;
+       text-align:center;
+       border:1px solid black;
+       
    }
-   .table,td {
-  border: 1px solid black;
-}
+   
    .button {
        padding-left:100px;
     background-color: transparent;
