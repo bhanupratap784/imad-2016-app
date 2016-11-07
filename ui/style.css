@@ -30,6 +30,12 @@ body {
   top: 0px;
   width: 80%;
    }
+   
+   .table{
+       text-align:left;
+       border:solid;
+       border-color:black;
+   }
    .button {
        padding-left:100px;
     background-color: transparent;
